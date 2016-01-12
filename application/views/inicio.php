@@ -74,7 +74,7 @@ $('#btnInfo').click(function(e) {
 $('#btnConfirm').click(function(e) {
   e.preventDefault();
   $.smkConfirm({
-    text:'Al pablo le gusta la CORNETA.!',
+    text:'Al ELIAS CATALAN GARCIA le gusta la CORNETA.!',
     accept:'Aceptar',
     cancel:'Cancelar'
   },function(res){
